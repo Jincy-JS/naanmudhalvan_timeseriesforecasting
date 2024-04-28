@@ -19,6 +19,16 @@ The main objective of this project is to enhance weather forecasting capabilitie
 git clone https://github.com/Jincy-JS/naanmudhalvan_timeseriesforecasting.git
 ```
 
+## Dataset
+To download the dataset, please follow these steps:
+
+1. Click on the following link to access the dataset: [Weather Dataset](https://drive.google.com/file/d/1EcRuMIm5JYhvodQymwsfcq0D1Mi2TFvR/view?usp=drive_link)
+2. You will be redirected to Google Drive.
+3. Click on the "Download" button to download the dataset file.
+4. Once downloaded, place the dataset file in the appropriate directory within your project structure.
+
+The dataset contains historical weather data required for training and evaluating the LSTM model. Ensure that you have the necessary permissions to access the dataset.
+
 ## Usage
 1. Prepare your historical weather data in a suitable format.
 2. Train the LSTM model using the provided scripts.
